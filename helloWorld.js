@@ -5,3 +5,5 @@ var name = 'Jimmy';
 var name = 'Sally';
 
 var name = ' Johnny');
+
+var name = 'Timmy');
